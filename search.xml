@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Painting Sakurajima Mai</title>
-    <url>/2020/12/03/Painting-Sakurajima-Mai/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>艺术</category>
-      </categories>
-      <tags>
-        <tag>SAI</tag>
-        <tag>cartoon</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>8.24-8.27 宁波慈溪调研</title>
     <url>/2020/08/24/8-24-8-28Investigation/</url>
     <content><![CDATA[<p>记录第一次正经的企业调研。✌</p>
@@ -544,10 +532,23 @@
       </categories>
   </entry>
   <entry>
+    <title>Bye-bye</title>
+    <url>/2019/08/27/byebye/</url>
+    <content><![CDATA[<p>这里搬家了。可能将在九月，去一个没有人知道的地方。🎨</p>
+<p>以前无聊的流水账周记不会再有了，liganlin.me不再用了。</p>
+<p>有缘的话，杭州见。</p>
+<a id="more"></a>
+
+]]></content>
+  </entry>
+  <entry>
     <title>Wenzhou</title>
     <url>/2019/07/31/Wenzhou/</url>
     <content><![CDATA[<a id="more"></a>
 ]]></content>
+      <categories>
+        <category>游记</category>
+      </categories>
   </entry>
   <entry>
     <title>Henan</title>
@@ -591,8 +592,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>大西北旅行攻略</title>
-    <url>/2019/06/29/%E5%A4%A7%E8%A5%BF%E5%8C%97%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5/</url>
+    <title>Northwest travel</title>
+    <url>/2019/06/29/Northwest/</url>
     <content><![CDATA[<p>备用哦</p>
 <a id="more"></a>
 
@@ -860,8 +861,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>Mongolia</title>
-    <url>/2019/04/11/Mongolia/</url>
+    <title>Inner Mongolia</title>
+    <url>/2019/04/11/Inner%20Mongolia/</url>
     <content><![CDATA[<p>清明和五一两个假日都给了内蒙🐫</p>
 <a id="more"></a>]]></content>
       <categories>

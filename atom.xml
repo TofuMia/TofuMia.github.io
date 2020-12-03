@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-15T07:34:06.172Z</updated>
+  <updated>2020-09-01T09:07:07.150Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Painting Sakurajima Mai</title>
-    <link href="http://yoursite.com/2020/12/03/Painting-Sakurajima-Mai/"/>
-    <id>http://yoursite.com/2020/12/03/Painting-Sakurajima-Mai/</id>
-    <published>2020-12-03T06:38:30.152Z</published>
-    <updated>2019-01-15T07:34:06.172Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="艺术" scheme="http://yoursite.com/categories/%E8%89%BA%E6%9C%AF/"/>
-    
-    
-      <category term="SAI" scheme="http://yoursite.com/tags/SAI/"/>
-    
-      <category term="cartoon" scheme="http://yoursite.com/tags/cartoon/"/>
-    
-  </entry>
   
   <entry>
     <title>8.24-8.27 宁波慈溪调研</title>
@@ -340,6 +319,27 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>2019 秋冬学期小结</title>
+    <link href="http://yoursite.com/2020/01/30/2019-Semester-34/"/>
+    <id>http://yoursite.com/2020/01/30/2019-Semester-34/</id>
+    <published>2020-01-30T14:18:06.000Z</published>
+    <updated>2020-01-30T15:42:02.359Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="semesterly" scheme="http://yoursite.com/tags/semesterly/"/>
+    
+      <category term="score3" scheme="http://yoursite.com/tags/score3/"/>
     
   </entry>
   
