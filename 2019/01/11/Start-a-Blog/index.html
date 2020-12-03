@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>
+    Start a Blog |  Diarium Ejus
+  </title>
+  <meta name="generator" content="hexo-theme-yilia-plus">
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<script src="/js/pace.min.js"></script>
+
+
+  
+
+  
+
+<link rel="alternate" href="/atom.xml" title="Diarium Ejus" type="application/atom+xml">
+</head>
+
+</html>
+
+<body>
+  <div id="app">
+    <main class="content">
+      <section class="outer">
+  <article id="post-Start-a-Blog" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h1 class="article-title sea-center" style="border-left:0" itemprop="name">
+  Start a Blog
+</h1>
+  
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2019/01/11/Start-a-Blog/" class="article-date">
+  <time datetime="2019-01-11T04:06:45.000Z" itemprop="datePublished">2019-01-11</time>
+</a>
+      
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E6%8A%80%E6%9C%AF/">技术</a>
+  </div>
+
+      
+      
+<div class="word_count">
+    <span class="post-time">
+        <span class="post-meta-item-icon">
+            <i class="ri-quill-pen-line"></i>
+            <span class="post-meta-item-text"> 字数统计:</span>
+            <span class="post-count">823字</span>
+        </span>
+    </span>
+
+    <span class="post-time">
+        &nbsp; | &nbsp;
+        <span class="post-meta-item-icon">
+            <i class="ri-book-open-line"></i>
+            <span class="post-meta-item-text"> 阅读时长≈</span>
+            <span class="post-count">3分钟</span>
+        </span>
+    </span>
+</div>
+
+      
+    </div>
+    
+
+    
+    
+    <div class="tocbot"></div>
+
+
+
+
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+
+
+      
+
+      
+      <blockquote>
+<p>用我自己能看懂的语言，简单回顾一下我的Github+Hexo的建(cai)站(keng)经历，以备后患。</p>
+</blockquote>
+<p>以下是碎碎念：</p>
+<ol>
+<li>看官方文档</li>
+<li>粗心犯大错</li>
+<li>先理解原理</li>
+<li>熟悉简单语法</li>
+<li>Hugo对我来说是个坑…🤣<a id="more"></a>
+
+</li>
+</ol>
+<h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><ul>
+<li><a href="http://nodejs.org/" target="_blank" rel="noopener">Node.js</a></li>
+<li><a href="http://git-scm.com/" target="_blank" rel="noopener">Git</a></li>
+</ul>
+<p>安装完两个程序后，打开cmd指令，使用npm安装Hexo</p>
+<blockquote>
+<p>$ npm install -g hexo-cli</p>
+</blockquote>
+<h3 id="建库"><a href="#建库" class="headerlink" title="建库"></a>建库</h3><p>在github上建立一个仓库，名称为 <code>githubname.github.io</code><br>打开Git bash，输入</p>
+<h3 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h3><p>到域名注册网站申请好域名并且配置好参数，在仓库的setting中把域名放到domain</p>
+<h3 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h3><p>执行以下命令，Hexo将在你的博客所在的文件夹中新建一个网站和系列文件</p>
+<blockquote>
+<p>$ hexo init <em>[foldername]</em></p>
+</blockquote>
+<blockquote>
+<p>$ cd <em>[foldername]</em></p>
+</blockquote>
+<blockquote>
+<p>$ npm install</p>
+</blockquote>
+<p>下面这个是安装Hexo的服务器和部署独立模块。</p>
+<blockquote>
+<p>$ npm install hexo-server –save</p>
+</blockquote>
+<blockquote>
+<p>$ npm install hexo-deployer-git –save</p>
+</blockquote>
+<h3 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h3><p><code>config.yml</code> 网站的配置信息</p>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>描述</th>
+<th>值</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>language</td>
+<td>语言</td>
+<td>zh-Hans</td>
+</tr>
+<tr>
+<td>permalink</td>
+<td>文章的永久链接格式</td>
+<td>:year/:month/:day/:title/</td>
+</tr>
+<tr>
+<td>url</td>
+<td>文章存放的目录</td>
+<td>默认值</td>
+</tr>
+<tr>
+<td>theme</td>
+<td>主题</td>
+<td>主题名称</td>
+</tr>
+</tbody></table>
+<p>deploy:<br>  type: git<br>  repo: 仓库的http地址，结尾是.git<br>  branch: master</p>
+<p><code>theme</code>主题文件夹的_config.yml是主题的配置信息；<br><code>package.json</code>应用程序的信息；<br><code>scaffolds</code> 模板文件夹，新建文章时默认填充的内容<br><code>source</code> 资源文件夹，posts文件夹的md文件将会被解析并放到public文件夹；<br>在source文件夹中创建一个无后缀的<code>CNAME</code>文件，内容填上域名地址即可。</p>
+<h3 id="Hexo命令"><a href="#Hexo命令" class="headerlink" title="Hexo命令"></a>Hexo命令</h3><blockquote>
+<p>$ hexo init <em>[foldername]</em></p>
+</blockquote>
+<p>新建一个博客。</p>
+<blockquote>
+<p>$ hexo new <em>[layout] [title]</em></p>
+</blockquote>
+<p>新建一篇文章。如果没有设置 layout 的话，默认使用config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。<br>layout布局有三种：<code>post</code>、<code>page</code>和<code>draft</code>。<br>他们分别对应不同路径，自定义的布局将储存到source/posts文件夹中。</p>
+<blockquote>
+<p>$ hexo generate</p>
+</blockquote>
+<p>生成静态文件，可缩写 hexo g。</p>
+<blockquote>
+<p>$ hexo publish <em>[layout] [filename]</em></p>
+</blockquote>
+<p>发布草稿。</p>
+<blockquote>
+<p>$ hexo server</p>
+</blockquote>
+<p>启动服务器。默认情况下访问网址 <code>http://localhost:4000/</code><br>hexo s-p 5000 重设端口。</p>
+<blockquote>
+<p>$ hexo deploy</p>
+</blockquote>
+<p>部署网站，可简写hexo d，部署之前需要用hexo g先生称静态文件。</p>
+<blockquote>
+<p>$ hexo render <em>[file1] [file2] …</em></p>
+</blockquote>
+<p>渲染文件（暂时没有用过）。</p>
+<blockquote>
+<p>$ hexo clean</p>
+</blockquote>
+<p>清除缓存文件 (db.json) 和已生成的静态文件 (public)。<br>在某些情况（尤其是更换主题后），如果发现对站点的更改无论如何也不生效，需要运行该命令。</p>
+<h3 id="其他碎碎念"><a href="#其他碎碎念" class="headerlink" title="其他碎碎念"></a>其他碎碎念</h3><ol>
+<li>与其看凌乱的博客，不如去看<a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">官方文档</a>，尽管有的是英文看起来有点麻烦，但至少逻辑清晰且准确。</li>
+<li>粗心犯大错。一个符号就导致了全部文章GG_(:з)∠)_ （config里的永久链接写少了一个/，导致所以文章都Undefined）。</li>
+<li>先明白整个框架和原理，然后再去实践。理解是多么重要。</li>
+<li>熟悉语法。因为cmd指令和md语法忘了的缘故，很多都是边查边用的。</li>
+<li>不要盲目模仿。因为文章一直出不来，就想换hugo搭博客，但hugo主要是给Linux系统设计的，Windows需要改环境变量等等，反而更麻烦了。另外网上教程语法全是Linux的，哭瞎。</li>
+</ol>
+
+      
+      <!-- 打赏 -->
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2019/01/11/Start-a-Blog/" data-id="cki8gxrqo001yn0ut1qvudlyq"
+        class="article-share-link">分享</a>
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Github/" rel="tag">Github</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li></ul>
+
+    </footer>
+
+  </div>
+
+  
+  
+  <nav class="article-nav">
+    
+      <a href="/2019/01/14/1-7-1-13/" class="article-nav-link">
+        <strong class="article-nav-caption">上一篇</strong>
+        <div class="article-nav-title">
+          
+            1.7-1.13
+          
+        </div>
+      </a>
+    
+    
+      <a href="/2019/01/11/Decoration-Day-Three-Years-in-BUCT/" class="article-nav-link">
+        <strong class="article-nav-caption">下一篇</strong>
+        <div class="article-nav-title">Decoration Day: Three Years in BUCT</div>
+      </a>
+    
+  </nav>
+
+
+  
+
+  
+  
+<!-- valine评论 -->
+<div id="vcomments-box">
+    <div id="vcomments">
+    </div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        notify: false,
+        verify: '',
+        app_id: 'LH48e9oVT0nEKVysFFORBxo7-gzGzoHsz',
+        app_key: 'KsNhDhg6DEjoeIQAjkUVP89s',
+        path: window.location.pathname,
+        avatar: 'mp',
+        placeholder: '说点什么~',
+        recordIP: true
+    });
+    const infoEle = document.querySelector('#vcomments .info');
+    if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+        infoEle.childNodes.forEach(function (item) {
+            item.parentNode.removeChild(item);
+        });
+    }
+</script>
+<style>
+    #vcomments-box {
+        padding: 5px 30px;
+    }
+
+    @media screen and (max-width: 800px) {
+        #vcomments-box {
+            padding: 5px 0px;
+        }
+    }
+
+    #vcomments-box #vcomments {
+        background-color: #fff;
+    }
+
+    .v .vlist .vcard .vh {
+        padding-right: 20px;
+    }
+
+    .v .vlist .vcard {
+        padding-left: 10px;
+    }
+</style>
+
+  
+
+  
+  
+  
+
+</article>
+</section>
+      <footer class="footer">
+  <div class="outer">
+    <ul class="list-inline">
+      <li>
+        &copy;
+        2020
+        Ganlin Li
+      </li>
+      <li>
+        
+      </li>
+    </ul>
+    <ul class="list-inline">
+      <li>
+        
+      </li>
+      <li>
+        <!-- cnzz统计 -->
+        
+      </li>
+    </ul>
+  </div>
+</footer>
+    <div class="to_top">
+        <div class="totop" id="totop">
+  <i class="ri-arrow-up-line"></i>
+</div>
+      </div>
+    </main>
+      <aside class="sidebar">
+        <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/ayer-side.svg" alt="Diarium Ejus"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/">主页</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/archives">归档</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/categories">分类</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/tags">标签</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/categories/%E8%AE%B0%E5%BD%95/">记录</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="https://ganlinli.lofter.com" target="_blank" rel="noopener">爱好</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/2020/02/01/me">关于我</a>
+    </li>
+    
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      
+      <a class="nav-item-link nav-item-search"  title="Search">
+        <i class="ri-search-line"></i>
+      </a>
+      
+      
+      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
+        <i class="ri-rss-line"></i>
+      </a>
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+      </aside>
+      <div id="mask"></div>
+
+<!-- #reward -->
+<div id="reward">
+  <span class="close"><i class="ri-close-line"></i></span>
+  <p class="reward-p"><i class="ri-cup-line"></i>请我喝杯咖啡吧~</p>
+  <div class="reward-box">
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/alipay.jpg">
+      <span class="reward-type">支付宝</span>
+    </div>
+    
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/wechat.jpg">
+      <span class="reward-type">微信</span>
+    </div>
+    
+  </div>
+</div>
+      
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js"></script>
+<script>
+  var typed = new Typed("#subtitle", {
+    strings: ['本我绘心日记','木子李，久旱逢甘霖','十篇文章 百个记录 千条思考'],
+    startDelay: 0,
+    typeSpeed: 200,
+    loop: true,
+    backSpeed: 100,
+    showCursor: true
+    });
+</script>
+
+
+
+
+<script src="/js/tocbot.min.js"></script>
+
+<script>
+  // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+  tocbot.init({
+    tocSelector: '.tocbot',
+    contentSelector: '.article-entry',
+    headingSelector: 'h1, h2, h3, h4, h5, h6',
+    hasInnerContainers: true,
+    scrollSmooth: true,
+    scrollContainer:'main',
+    positionFixedSelector: '.tocbot',
+    positionFixedClass: 'is-position-fixed',
+    fixedSidebarOffset: 'auto',
+    onClick: (e) => {
+      $('.toc-link').removeClass('is-active-link');
+      $(`a[href=${e.target.hash}]`).addClass('is-active-link');
+      $(e.target.hash).scrollIntoView();
+      return false;
+    }
+  });
+</script>
+
+
+<script>
+  var ayerConfig = {
+    mathjax: false
+  }
+</script>
+
+
+<script src="/js/ayer.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.css">
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" style="display:none" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.css">
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"></script>
+
+<script>
+    function viewer_init() {
+        let pswpElement = document.querySelectorAll('.pswp')[0];
+        let $imgArr = document.querySelectorAll(('.article-entry img:not(.reward-img)'))
+
+        $imgArr.forEach(($em, i) => {
+            $em.onclick = () => {
+                // slider展开状态
+                // todo: 这样不好，后面改成状态
+                if (document.querySelector('.left-col.show')) return
+                let items = []
+                $imgArr.forEach(($em2, i2) => {
+                    let img = $em2.getAttribute('data-idx', i2)
+                    let src = $em2.getAttribute('data-target') || $em2.getAttribute('src')
+                    let title = $em2.getAttribute('alt')
+                    // 获得原图尺寸
+                    const image = new Image()
+                    image.src = src
+                    items.push({
+                        src: src,
+                        w: image.width || $em2.width,
+                        h: image.height || $em2.height,
+                        title: title
+                    })
+                })
+                var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, {
+                    index: parseInt(i)
+                });
+                gallery.init()
+            }
+        })
+    }
+    viewer_init()
+</script>
+
+
+
+
+<script type="text/javascript" src="https://js.users.51.la/20544303.js"></script>
+  </div>
+</body>
+
+</html>
