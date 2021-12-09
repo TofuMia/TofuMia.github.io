@@ -666,6 +666,20 @@
   </url>
   
   <url>
+    <loc>http://liganlin.xyz/tags/Yearly/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/Beijing/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://liganlin.xyz/tags/semesterly/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -680,21 +694,7 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/Yearly/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/tags/Hangzhou/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/Beijing/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -722,20 +722,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/score4/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/score5/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/tags/BUCT/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -744,6 +730,20 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/Manuscript/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/score4/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/score5/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -792,14 +792,14 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/investigation/</loc>
+    <loc>http://liganlin.xyz/tags/History/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/History/</loc>
+    <loc>http://liganlin.xyz/tags/investigation/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
