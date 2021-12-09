@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liganlin.xyz/2021/12/10/Jan-2021/</loc>
+    
+    <lastmod>2021-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://liganlin.xyz/2021/12/09/2021/</loc>
     
     <lastmod>2021-12-09</lastmod>
@@ -92,24 +101,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2020/08/22/2020-Summer-Holiday/</loc>
-    
-    <lastmod>2020-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2020/08/22/2020-Winter-Holiday/</loc>
-    
-    <lastmod>2020-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2020/08/22/August-2020/</loc>
     
     <lastmod>2020-08-22</lastmod>
@@ -147,15 +138,6 @@
   
   <url>
     <loc>http://liganlin.xyz/2020/08/22/April-2020/</loc>
-    
-    <lastmod>2020-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2020/08/22/2020-Semester-12/</loc>
     
     <lastmod>2020-08-22</lastmod>
     
@@ -299,15 +281,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2020/01/30/2019-Semester-34/</loc>
-    
-    <lastmod>2020-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2020/01/30/Jan27-31/</loc>
     
     <lastmod>2020-01-30</lastmod>
@@ -354,15 +327,6 @@
   
   <url>
     <loc>http://liganlin.xyz/2019/07/31/Henan/</loc>
-    
-    <lastmod>2019-07-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2019/07/31/China/</loc>
     
     <lastmod>2019-07-31</lastmod>
     
@@ -674,13 +638,6 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/Beijing/</loc>
-    <lastmod>2021-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/semesterly/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

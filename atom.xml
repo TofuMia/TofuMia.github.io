@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2021-12-09T13:53:03.068Z</updated>
+  <updated>2021-12-09T16:48:50.623Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Jan-2021</title>
+    <link href="http://liganlin.xyz/2021/12/10/Jan-2021/"/>
+    <id>http://liganlin.xyz/2021/12/10/Jan-2021/</id>
+    <published>2021-12-09T16:48:50.000Z</published>
+    <updated>2021-12-09T16:48:50.623Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2021</title>
@@ -80,52 +103,6 @@
     
     
       <category term="investigation" scheme="http://liganlin.xyz/tags/investigation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020-Summer-Holiday</title>
-    <link href="http://liganlin.xyz/2020/08/22/2020-Summer-Holiday/"/>
-    <id>http://liganlin.xyz/2020/08/22/2020-Summer-Holiday/</id>
-    <published>2020-08-22T09:53:59.000Z</published>
-    <updated>2020-08-22T09:53:59.035Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020-Winter-Holiday</title>
-    <link href="http://liganlin.xyz/2020/08/22/2020-Winter-Holiday/"/>
-    <id>http://liganlin.xyz/2020/08/22/2020-Winter-Holiday/</id>
-    <published>2020-08-22T09:53:39.000Z</published>
-    <updated>2020-08-22T09:53:39.589Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
@@ -227,29 +204,6 @@
     <id>http://liganlin.xyz/2020/08/22/April-2020/</id>
     <published>2020-08-22T09:52:20.000Z</published>
     <updated>2020-08-22T09:52:20.494Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2020-Semester-12</title>
-    <link href="http://liganlin.xyz/2020/08/22/2020-Semester-12/"/>
-    <id>http://liganlin.xyz/2020/08/22/2020-Semester-12/</id>
-    <published>2020-08-22T09:50:58.000Z</published>
-    <updated>2020-08-22T09:50:58.211Z</updated>
     
     <summary type="html">
     
@@ -469,6 +423,53 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://liganlin.xyz/2020/02/01/me/"/>
+    <id>http://liganlin.xyz/2020/02/01/me/</id>
+    <published>2020-02-01T13:06:08.000Z</published>
+    <updated>2020-02-02T13:01:41.502Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;I am Ganlin LI;&lt;/p&gt;
+&lt;p&gt;Management Ph.D Student;&lt;/p&gt;
+&lt;p&gt;Adventurer of world, life and self.&lt;/p&gt;
+&lt;p&gt;Enthusiast of Reading, Music, Cospa, Hiking, DIY, etc.&lt;/p&gt;
+&lt;p&gt;Location: Zhejiang University, Hangzhou, CHINA&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&quot;mailto:ganlinli@zju.edu.cn&quot;&gt;ganlinli@zju.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019</title>
+    <link href="http://liganlin.xyz/2020/01/30/2019/"/>
+    <id>http://liganlin.xyz/2020/01/30/2019/</id>
+    <published>2020-01-30T14:09:01.000Z</published>
+    <updated>2021-01-01T16:12:03.679Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;充实又空洞的2019，探索与自我救赎。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录" scheme="http://liganlin.xyz/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
+    
+      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
     
   </entry>
   
