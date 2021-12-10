@@ -46,9 +46,7 @@
 
 			<script>
 				console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=false");
-			</script>
-
-]]></content>
+			</script>]]></content>
       <categories>
         <category>记录</category>
       </categories>
