@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2021-12-09T16:48:50.623Z</updated>
+  <updated>2021-12-10T08:16:52.648Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -15,6 +15,75 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>catting</title>
+    <link href="http://liganlin.xyz/2021/12/10/catting/"/>
+    <id>http://liganlin.xyz/2021/12/10/catting/</id>
+    <published>2021-12-10T08:16:52.000Z</published>
+    <updated>2021-12-10T08:16:52.648Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2021-12</title>
+    <link href="http://liganlin.xyz/2021/12/10/2021-12/"/>
+    <id>http://liganlin.xyz/2021/12/10/2021-12/</id>
+    <published>2021-12-10T08:13:43.000Z</published>
+    <updated>2021-12-10T08:13:43.782Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>:year-:month-:day-:title</title>
+    <link href="http://liganlin.xyz/2021/12/10/year-month-day-title/"/>
+    <id>http://liganlin.xyz/2021/12/10/year-month-day-title/</id>
+    <published>2021-12-10T07:51:16.000Z</published>
+    <updated>2021-12-10T07:51:16.485Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Jan-2021</title>
@@ -400,76 +469,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>3.16-3.22</title>
-    <link href="http://liganlin.xyz/2020/03/23/3-16-3-22/"/>
-    <id>http://liganlin.xyz/2020/03/23/3-16-3-22/</id>
-    <published>2020-03-23T07:42:16.000Z</published>
-    <updated>2020-03-23T07:42:16.075Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About Me</title>
-    <link href="http://liganlin.xyz/2020/02/01/me/"/>
-    <id>http://liganlin.xyz/2020/02/01/me/</id>
-    <published>2020-02-01T13:06:08.000Z</published>
-    <updated>2020-02-02T13:01:41.502Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;I am Ganlin LI;&lt;/p&gt;
-&lt;p&gt;Management Ph.D Student;&lt;/p&gt;
-&lt;p&gt;Adventurer of world, life and self.&lt;/p&gt;
-&lt;p&gt;Enthusiast of Reading, Music, Cospa, Hiking, DIY, etc.&lt;/p&gt;
-&lt;p&gt;Location: Zhejiang University, Hangzhou, CHINA&lt;/p&gt;
-&lt;p&gt;Email: &lt;a href=&quot;mailto:ganlinli@zju.edu.cn&quot;&gt;ganlinli@zju.edu.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2019</title>
-    <link href="http://liganlin.xyz/2020/01/30/2019/"/>
-    <id>http://liganlin.xyz/2020/01/30/2019/</id>
-    <published>2020-01-30T14:09:01.000Z</published>
-    <updated>2021-01-01T16:12:03.679Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;充实又空洞的2019，探索与自我救赎。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="记录" scheme="http://liganlin.xyz/categories/%E8%AE%B0%E5%BD%95/"/>
-    
-    
-      <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
-    
-      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
     
   </entry>
   
