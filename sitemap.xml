@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liganlin.xyz/2021/01/01/2020/</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2021/12/09/2021/</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://liganlin.xyz/2019/01/07/1-1-1-6/</loc>
     
     <lastmod>2021-12-10</lastmod>
@@ -65,25 +83,7 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2021/12/09/2021/</loc>
-    
-    <lastmod>2021-12-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2020/01/30/2019/</loc>
-    
-    <lastmod>2021-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2021/01/01/2020/</loc>
     
     <lastmod>2021-01-01</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2019/04/11/Inner%20Mongolia/</loc>
+    <loc>http://liganlin.xyz/2019/04/11/Inner-Mongolia/</loc>
     
     <lastmod>2020-12-03</lastmod>
     
@@ -680,13 +680,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/score3/</loc>
-    <lastmod>2021-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/tags/Hangzhou/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -715,14 +708,7 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/BUCT/</loc>
-    <lastmod>2021-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/Manuscript/</loc>
+    <loc>http://liganlin.xyz/tags/score5/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -736,7 +722,21 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/score5/</loc>
+    <loc>http://liganlin.xyz/tags/score3/</loc>
+    <lastmod>2021-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/BUCT/</loc>
+    <lastmod>2021-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/Manuscript/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -757,20 +757,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/Github/</loc>
-    <lastmod>2021-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/Hexo/</loc>
-    <lastmod>2021-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/tags/Monthly/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -779,6 +765,20 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/Jiangxi/</loc>
+    <lastmod>2021-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/Github/</loc>
+    <lastmod>2021-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/Hexo/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -836,14 +836,14 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://liganlin.xyz/categories/%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/categories/%E8%AE%A1%E5%88%92/</loc>
+    <loc>http://liganlin.xyz/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
