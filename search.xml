@@ -8,10 +8,7 @@
   <entry>
     <title>2021-12</title>
     <url>/2021/12/10/2021-12/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-    <div id="aplayer-wQvDMTJz" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="479399099" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"
-    ></div>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>:year-:month-:day-:title</title>
@@ -30,10 +27,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-cbwYBQUB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-dEXpYgyP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
-				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"平凡之路","author":"朴树","url":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.mp3","pic":"https://ogd99kckh.qnssl.com/1.jpg","lrc":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.txt"},{"title":"野子","author":"苏运莹","url":"http://og9ocpmwk.bkt.clouddn.com/01%20%E9%87%8E%E5%AD%90.m4a","pic":"http://og9ocpmwk.bkt.clouddn.com/%E9%87%8E%E5%AD%90.jpg","lrc":"https://ogd99kckh.qnssl.com/%E9%87%8E%E5%AD%90.txt"}]};
-				  options.element = document.getElementById("aplayer-cbwYBQUB");
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Letter song","author":"外国人","url":"http://music.163.com/song/media/outer/url?id=27571001.mp3","pic":"https://ogd99kckh.qnssl.com/1.jpg","lrc":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.txt"}]};
+				  options.element = document.getElementById("aplayer-dEXpYgyP");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -41,9 +38,10 @@
 
 
 
-
-
-]]></content>
+<h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist:"></a>playlist:</h2><pre><code>name: Letter Song
+artist: ヲタみん
+url: &quot;http://music.163.com/song/media/outer/url?id=27571001.mp3&quot;
+cover: &quot;//p1.music.126.net/zJae2lg6igf-mBb5vbecew==/3099523278777600.jpg?param=130y130&quot;</code></pre>]]></content>
   </entry>
   <entry>
     <title>2020</title>

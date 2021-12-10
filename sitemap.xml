@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://liganlin.xyz/2021/12/09/2021/</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://liganlin.xyz/2021/12/10/2021-12/</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2019/08/27/byebye/</loc>
     
     <lastmod>2021-12-10</lastmod>
     
@@ -21,15 +39,6 @@
   
   <url>
     <loc>http://liganlin.xyz/2021/01/01/2020/</loc>
-    
-    <lastmod>2021-12-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2021/12/09/2021/</loc>
     
     <lastmod>2021-12-10</lastmod>
     
@@ -356,15 +365,6 @@
     <loc>http://liganlin.xyz/categories/index.html</loc>
     
     <lastmod>2020-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2019/08/27/byebye/</loc>
-    
-    <lastmod>2019-08-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -722,14 +722,14 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/score5/</loc>
+    <loc>http://liganlin.xyz/tags/score4/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/score4/</loc>
+    <loc>http://liganlin.xyz/tags/score5/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
