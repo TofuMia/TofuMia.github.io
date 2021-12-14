@@ -22,31 +22,14 @@
 <p>最后的最后，希望自己未来能当一个好老师。</p>
 ]]></content>
       <categories>
-        <category>Review</category>
+        <category>Comment</category>
+        <category>Record</category>
+        <category>book</category>
       </categories>
       <tags>
         <tag>weekly</tag>
-        <tag>book</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2018</title>
-    <url>/2019/01/10/2018/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>以此纪念找回自我的2018年。</p>
-<a id="more"></a>
-<h1 id="愿望-amp-目标完成情况"><a href="#愿望-amp-目标完成情况" class="headerlink" title="愿望&amp;目标完成情况"></a>愿望&amp;目标完成情况</h1><h2 id="1-保研"><a href="#1-保研" class="headerlink" title="1. 保研"></a>1. 保研</h2><p>虽然过程比较坎坷，但终归如愿以偿了。💗 喜欢的学校，喜欢的专业，喜欢的导师。</p>
-<h2 id="2-英语"><a href="#2-英语" class="headerlink" title="2. 英语"></a>2. 英语</h2><p>GRE和IELTS考是考了，就是没达到目标分数。BEC由于时间问题，没有报考。<br>但意外的是，六级逆袭了。其实多亏了GRE，尤其是背大三千让我erudite…<br>这一年听力口语提升较大，词汇积累很多。换了背单词的方式，尝试了练习口语的app。</p>
-<h2 id="3-论文"><a href="#3-论文" class="headerlink" title="3. 论文"></a>3. 论文</h2><p>近几个月的原著理论阅读让我受益匪浅。</p>
-<h2 id="4-计算机"><a href="#4-计算机" class="headerlink" title="4. 计算机"></a>4. 计算机</h2><p>学是学了数据挖掘这门课，但用的不是Python，而且学的不好。R语言也没有学。<br>Matlab也不会…</p>
-<h2 id="5-课程"><a href="#5-课程" class="headerlink" title="5. 课程"></a>5. 课程</h2><p>MIT系列慕课，只学了线性代数。意外发现了3blueblown的数学类视频很nice，顺带复习了微积分和概率论。为了复习数学，寒假的时候买了好几本张宇的考研数学书，把高等数学的部分复习了😂 后来发现自己其实不适合管科。</p>
-<h2 id="6-其他"><a href="#6-其他" class="headerlink" title="6. 其他"></a>6. 其他</h2><p>板绘技能get，初学阶段。</p>
-]]></content>
-      <categories>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>Yearly</tag>
-        <tag>Beijing</tag>
+        <tag>molestation</tag>
+        <tag>teacher</tag>
       </tags>
   </entry>
   <entry>
@@ -76,11 +59,11 @@
 <p> 2015级物流管理的一名学生</p>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>Essay</category>
+        <category>footsprint</category>
       </categories>
       <tags>
-        <tag>BUCT</tag>
-        <tag>Manuscript</tag>
+        <tag>Beijing</tag>
       </tags>
   </entry>
   <entry>
@@ -199,7 +182,8 @@
 </ol>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>Note</category>
+        <category>tech</category>
       </categories>
       <tags>
         <tag>Github</tag>
@@ -216,11 +200,13 @@
 <p>可惜身边的人不够勇敢。</p>
 ]]></content>
       <categories>
-        <category>游记</category>
+        <category>Life</category>
+        <category>travel</category>
       </categories>
       <tags>
-        <tag>Sport</tag>
+        <tag>Beijing</tag>
         <tag>CETtrip</tag>
+        <tag>sport</tag>
       </tags>
   </entry>
   <entry>
@@ -261,10 +247,13 @@
 <p>最后，舔狗（为了目的不择手段忘记自己的人）都没有什么好结果，内心平静别无所求的人才会没有痛苦吧。所谓大彻大悟是否如此？反思自己。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Comment</category>
+        <category>Record</category>
+        <category>drama</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>wuxia</tag>
       </tags>
   </entry>
   <entry>
@@ -291,7 +280,6 @@
 <p>过了几天，这件事情又给了我一点思考。一边看创业研究的书，我突然觉得戴威的事情还可以用理论分析分析。</p>
 ]]></content>
       <categories>
-        <category>Comment</category>
         <category>Record</category>
       </categories>
       <tags>
@@ -308,14 +296,30 @@
 <p>因此我想尽力用我的文字去回忆九天的时间里，在尼泊尔的每一个角落和每一个瞬间。🎐</p>
 <a id="more"></a>
 
+
+        <div id="aplayer-JRsVQrAs" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Om Mani Padme Hum","author":"Büdi Siebert","url":"http://music.163.com/song/media/outer/url?id=1139568.mp3","pic":"http://p1.music.126.net/MQ39leOW1yLmmXLJHak9gg==/914793674352629.jpg?param=130y130"}]};
+				  options.element = document.getElementById("aplayer-JRsVQrAs");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script>
+
+
+
 <p>2019年1月18日至1月25日，</p>
 ]]></content>
       <categories>
-        <category>游记</category>
+        <category>Record</category>
+        <category>Life</category>
+        <category>travel</category>
+        <category>memory</category>
       </categories>
       <tags>
-        <tag>Volunteer</tag>
-        <tag>Travel</tag>
+        <tag>volunteer</tag>
+        <tag>Southeast Asia</tag>
+        <tag>Gapper</tag>
       </tags>
   </entry>
   <entry>
@@ -360,7 +364,7 @@
         <category>Record</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
       </tags>
   </entry>
   <entry>
@@ -387,10 +391,10 @@
 <p>但人总要独立的，”授人以鱼不如授人以渔“，希望果子也早点长大。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Record</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
       </tags>
   </entry>
   <entry>
@@ -419,10 +423,12 @@
 <p>周日去面试，因为各种原因好像到的比较晚，是最后一个面试的，英文自我介绍了一下就水过去了。被拉到了群里，和山羊皮的缘分就这样开始了。可能这会打开我生活新的一页吧。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Record</category>
+        <category>Life</category>
+        <category>travel</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
       </tags>
   </entry>
   <entry>
@@ -448,10 +454,14 @@
 <p>脑子就有问题了……这个原因我难以接受。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Comment</category>
+        <category>Record</category>
+        <category>drama</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>history</tag>
+        <tag>ancient China</tag>
       </tags>
   </entry>
   <entry>
@@ -534,11 +544,11 @@
 <p>日语这个也是，可能英语还没学得好就想这么多，哭了。</p>
 ]]></content>
       <categories>
-        <category>计划</category>
+        <category>Record</category>
       </categories>
       <tags>
-        <tag>Monthly</tag>
         <tag>Jiangxi</tag>
+        <tag>monthly</tag>
       </tags>
   </entry>
   <entry>
@@ -575,10 +585,14 @@
 <p>”规则“到底是什么？</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Comment</category>
+        <category>Record</category>
+        <category>film</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>history</tag>
+        <tag>war</tag>
       </tags>
   </entry>
   <entry>
@@ -618,10 +632,16 @@
 <p>谁不想去寻找那个远离文明世界的塔希提呢？</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Comment</category>
+        <category>Record</category>
+        <category>book</category>
+        <category>Life</category>
+        <category>hobby</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>bake</tag>
+        <tag>fiction</tag>
       </tags>
   </entry>
   <entry>
@@ -670,19 +690,6 @@
       </categories>
       <tags>
         <tag>Weekly</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2019</title>
-    <url>/2020/01/30/2019/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>充实又空洞的2019，探索与自我救赎。</p>
-<a id="more"></a>]]></content>
-      <categories>
-        <category>记录</category>
-      </categories>
-      <tags>
-        <tag>Yearly</tag>
-        <tag>Hangzhou</tag>
       </tags>
   </entry>
   <entry>
@@ -748,15 +755,26 @@
 <a id="more"></a>
 
 <p><img src="https://i.loli.net/2020/02/01/jXnsfJHGIRUlLwc.png" alt="image.png"><br><em>(宮崎 のどか, Miyazaki Nodoka)</em> </p>
-<p>这是在2020年初，个人搭建的以我的名字为域名的.me网站。之所以取名Diarium Ejus，是源于一个动漫角色绫濑夕映，一位天真又古怪的“图书管理员”，她的魔法书「本我绘心日记」可用于阅读目标之内在意识与想法。我认真思量后以为，她的画风、性格和爱好都和我本人很相似。同时，我也希望在多年以后，能够拥有读懂自己和翻阅社会的能力。</p>
+<h2 id="ORIGIN"><a href="#ORIGIN" class="headerlink" title="ORIGIN"></a>ORIGIN</h2><p>这是在2020年初，个人搭建的以我的名字为域名的.me网站（后来域名更换为.xyz）。之所以取名Diarium Ejus，是源于一个动漫角色<strong>绫濑夕映</strong>，一位天真又古怪的“图书管理员”，她的魔法书「本我绘心日记」，可用于阅读目标之内在意识与想法。我认真思量后以为，她的画风、性格和爱好都和我本人很相似~ 同时，我也希望在多年以后，能够拥有读懂自己和翻阅社会的能力。</p>
 <p>Diary也很适合我建站的情境，我将这儿作为记录日常成长的秘密基地；</p>
 <p>“绘心”则是建站的意义，以方寸之地，用心探索生活与世界。</p>
 <p>Anyway，一切都恰好如此。于是借由此开启我的故事。</p>
-<p>ganlin.me有以下的分类和标签。</p>
+<p>ganlinli.me有以下的分类和标签（2021年域名过期，后更换为.xyz幸运者后缀，这个图就有点懒得换了）</p>
 <p><img src="https://i.loli.net/2020/02/01/XpF9LlhW8g3DVkx.png" alt="ganlinli.me.png"></p>
-<p>副标题会滚动“木子李，久旱逢甘霖”、我的年度座右铭、以及偶尔出现喜欢的句子。</p>
-<p>先谈谈我自己，都说“吾心安处便是吾乡”，我虽生于江西宜春，曾居住在北京四年，但至今仍未找到心之归属，无处安放，放在这虚拟的空间中也好。我是一名依然肤浅的研究创业和Mentoring的在读博士生。</p>
-<p>生活中总有灵感、想法和一些事情难以分享给其他人。分享是一件</p>
+<p><strong>2021/7/7更新：</strong></p>
+<p>解锁了新的<strong>Wechat公众号</strong>，用于写日记和碎碎念，不成体系，时长时短，有悲有喜，总之什么内容都有（真担心有天会被人发现。</p>
+<p>也只是日常笑谈罢了，很多时候，其实我也不知自己为什么有那么多情绪要表达出来。也罢，无需过问再多，这些到最后大概也会付诸东流，成为历史的尘埃吧。</p>
+<p>不过好在还有个可以坚持记录生活的地方，这倒也是很让人宽慰的 ：）</p>
+<p><strong>2021/12/13 更新：</strong></p>
+<p>categories &amp; tags 有变动，以左侧导航栏为准~ </p>
+<p>blog将会有一个重要的新定位：<strong>科研阅读的记录簿，见证读博期间，一点一滴的努力</strong>。不久后，这里会呈现出类似于EverydayONE Paper的comment专栏，每天分享一篇关于当天阅读paper的评论。此外，我希望将blog的语言渐渐过渡为英文，用通用语言进行交流~这是我很看好hexo博客的一点。最近费了好多心思，加了comment调动API还有系列功能，其实也是为了之后的”现世“做考虑。</p>
+<p>期待这里成为写作、思考、火花的诞生场所，或许还会遇见更多惊喜，有更广阔的天地。</p>
+<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>“吾心安处便是吾乡”，哪里会是心安之地？若无处安放，就游离在这虚拟的空间中也很好。</p>
+<p>我是一名在读博士生，创业管理专业，研究的是entrepreneurial mentoring，目前对于传统手工艺家族的传承创新topic感兴趣。</p>
+<p>生活中总有灵感、想法和一些事情难以分享给其他人。分享，有时候是一件难以启齿的事情，发出声音的时候，有人似乎就会在角落里发笑。其实，我根本不知道如何去分享自己，我也无法贴标签、下定义。而我这些甚至有点异类的想法，被人察觉丝毫时，我会反射性地把自己藏起来，就像现在一样，担心就这样赤裸裸的展现在人面前，让人窥探甚至看透。</p>
+<p>而写作，无疑是一种逃脱。无需猜测，也无需多想，是否会回应，想到写出来便是了。</p>
+<h2 id="About-future"><a href="#About-future" class="headerlink" title="About future"></a>About future</h2><p>“学为人师，行为世范”，</p>
+<p>终极一生的理想，莫过于此。</p>
 ]]></content>
   </entry>
   <entry>
@@ -766,10 +784,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-FDSBCCah" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-nATVrWvC" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
-				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Letter song","author":"外国人","url":"http://music.163.com/song/media/outer/url?id=27571001.mp3","pic":"https://ogd99kckh.qnssl.com/1.jpg","lrc":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.txt"}]};
-				  options.element = document.getElementById("aplayer-FDSBCCah");
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Letter song","author":"外国人","url":"http://music.163.com/song/media/outer/url?id=27571001.mp3","pic":"https://ogd99kckh.qnssl.com/1.jpg"}]};
+				  options.element = document.getElementById("aplayer-nATVrWvC");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -826,10 +844,12 @@
 <p>静静坐下来才知道，<code>思考复杂问题</code>或许才能让我更能真正找到自己，发现藏在生活中的奥秘。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Record</category>
+        <category>memory</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>friend</tag>
       </tags>
   </entry>
   <entry>
@@ -860,10 +880,12 @@
 <h4 id="附录二"><a href="#附录二" class="headerlink" title="附录二"></a>附录二</h4><p>原本是大同旅行行记，因为太懒了所以直接PO上开线报告。</p>
 ]]></content>
       <categories>
-        <category>记录</category>
+        <category>Record</category>
       </categories>
       <tags>
-        <tag>Weekly</tag>
+        <tag>weekly</tag>
+        <tag>exhibition</tag>
+        <tag>geography</tag>
       </tags>
   </entry>
   <entry>
@@ -937,7 +959,10 @@
 <h4 id="购票流程方面"><a href="#购票流程方面" class="headerlink" title="购票流程方面"></a>购票流程方面</h4><p>购票耗费的时间太久，云冈石窟需要上楼大约 30min；悬空寺的散客票窗口排队时间更 长，与此同时团体票售票处无人排队……（团体票售票员说是不能买团体票）。所以个人 认为可以进一步优化流程，例如像白石山一样在车上收好证件后逐个发卡片，领队过去买 团体票，节约大家的等待时间。 </p>
 ]]></content>
       <categories>
-        <category>游记</category>
+        <category>Record</category>
+        <category>Life</category>
+        <category>travel</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>CETtrip</tag>
@@ -1239,7 +1264,9 @@
 <p>[11]         鲍威尔 Powell Walter W., 迪马乔 DiMaggio Paul J., 姚伟. 组织分析的新制度主义[M]. 上海: 上海人民出版社, 2008.</p>
 ]]></content>
       <categories>
-        <category>Research, Theory</category>
+        <category>Essay</category>
+        <category>course</category>
+        <category>Research</category>
       </categories>
       <tags>
         <tag>management</tag>
@@ -1248,7 +1275,7 @@
       </tags>
   </entry>
   <entry>
-    <title>world</title>
+    <title>Revisit to my world</title>
     <url>/2019/01/10/world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist:"></a>playlist:</h2><pre><code>name: Letter Song
 artist: ヲタみん
@@ -1340,7 +1367,58 @@ cover: &quot;//p1.music.126.net/zJae2lg6igf-mBb5vbecew==/3099523278777600.jpg?pa
 <p>我真是锦鲤和倒霉鬼双重体质。最后一年终于排名全都第一了，但我仍然与国奖错过了~</p>
 <h2 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h2><p>之后就是Weekly周记的形式了，未来还会在路上。</p>
 <p>等待继续更新……</p>
-<p>努力回忆了这十年的经历，我开始反思自己。我总是为某个目标全力以赴，当我真正到达心驰神往的目的地了，会庆幸自己努力，会特别开心，但后来我也总是待不了多久又觉得根本没有想象的那么好了，接下来想到的就是马上出发赶往下一个地方。我似乎从来就没有知足过。我总是给未来设定的预期值特别高，到了之后又觉着乏善可陈。这样反反复复，总有一种做什么都蜻蜓点水半途而废的挫败感。也该长大了，不是所有事情都像童话里一样好，未来不知道多少更糟糕的事情，平常心对待吧</p>
+<p>努力回忆了这十年的经历，我开始反思自己。我总是为某个目标全力以赴，当我真正到达心驰神往的目的地了，会庆幸自己努力，会特别开心，但后来我也总是待不了多久又觉得根本没有想象的那么好了，接下来想到的就是马上出发赶往下一个地方。我似乎从来就没有知足过。我总是给未来设定的预期值特别高，到了之后又觉着乏善可陈。这样反反复复，总有一种做什么都蜻蜓点水半途而废的挫败感。也该长大了，不是所有事情都像童话里一样好，未来不知道多少更糟糕的事情，平常心对待吧。</p>
 ]]></content>
+      <categories>
+        <category>Essay</category>
+        <category>footsprint</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2018</title>
+    <url>/2019/01/01/Yearly/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>以此纪念找回自我的2018年。</p>
+<p>现在回过头看看，2018年的自己有些天真烂漫的傻气。</p>
+<a id="more"></a>
+
+
+        <div id="aplayer-WehfmqXW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+			  <script>
+				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Bloom of Youth","author":"清水準一","url":"http://music.163.com/song/media/outer/url?id=760058.mp3","pic":"http://p2.music.126.net/BxiuK1_8_RXArdjxOqqUeg==/3382097775018074.jpg?param=130y130"}]};
+				  options.element = document.getElementById("aplayer-WehfmqXW");
+				  var ap = new APlayer(options);
+			    window.aplayers || (window.aplayers = []);
+				  window.aplayers.push(ap);
+			  </script>
+
+
+
+<h1 id="愿望-amp-目标完成情况"><a href="#愿望-amp-目标完成情况" class="headerlink" title="愿望&amp;目标完成情况"></a>愿望&amp;目标完成情况</h1><h2 id="1-保研"><a href="#1-保研" class="headerlink" title="1. 保研"></a>1. 保研</h2><p>虽然过程比较坎坷，但终归如愿以偿了。💗 喜欢的学校，喜欢的专业，喜欢的导师。</p>
+<h2 id="2-英语"><a href="#2-英语" class="headerlink" title="2. 英语"></a>2. 英语</h2><p>GRE和IELTS考是考了，就是没达到目标分数。BEC由于时间问题，没有报考。<br>但意外的是，六级逆袭了。其实多亏了GRE，尤其是背大三千让我erudite…<br>这一年听力口语提升较大，词汇积累很多。换了背单词的方式，尝试了练习口语的app。</p>
+<h2 id="3-论文"><a href="#3-论文" class="headerlink" title="3. 论文"></a>3. 论文</h2><p>近几个月的原著理论阅读让我受益匪浅。</p>
+<h2 id="4-计算机"><a href="#4-计算机" class="headerlink" title="4. 计算机"></a>4. 计算机</h2><p>学是学了数据挖掘这门课，但用的不是Python，而且学的不好。R语言也没有学。<br>Matlab也不会…</p>
+<h2 id="5-课程"><a href="#5-课程" class="headerlink" title="5. 课程"></a>5. 课程</h2><p>MIT系列慕课，只学了线性代数。意外发现了3blueblown的数学类视频很nice，顺带复习了微积分和概率论。为了复习数学，寒假的时候买了好几本张宇的考研数学书，把高等数学的部分复习了😂 后来发现自己其实不适合管科。</p>
+<h2 id="6-其他"><a href="#6-其他" class="headerlink" title="6. 其他"></a>6. 其他</h2><p>板绘技能get，初学阶段。</p>
+]]></content>
+      <categories>
+        <category>Record</category>
+      </categories>
+      <tags>
+        <tag>Yearly</tag>
+        <tag>Beijing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2019</title>
+    <url>/2020/01/30/Yearly/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>充实又空洞的2019，探索与自我救赎。</p>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>Record</category>
+      </categories>
+      <tags>
+        <tag>Yearly</tag>
+        <tag>Hangzhou</tag>
+      </tags>
   </entry>
 </search>
