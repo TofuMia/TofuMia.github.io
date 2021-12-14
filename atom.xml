@@ -238,7 +238,7 @@
     <link href="http://liganlin.xyz/2019/04/11/Inner%20Mongolia/"/>
     <id>http://liganlin.xyz/2019/04/11/Inner%20Mongolia/</id>
     <published>2019-04-10T16:06:28.000Z</published>
-    <updated>2020-12-03T06:54:06.841Z</updated>
+    <updated>2021-12-14T09:59:01.130Z</updated>
     
     <summary type="html">
     
@@ -356,18 +356,18 @@
     </summary>
     
     
-      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
-    
       <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
+    
+      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
     
       <category term="film" scheme="http://liganlin.xyz/categories/Comment/film/"/>
     
     
       <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
     
-      <category term="history" scheme="http://liganlin.xyz/tags/history/"/>
-    
       <category term="war" scheme="http://liganlin.xyz/tags/war/"/>
+    
+      <category term="history" scheme="http://liganlin.xyz/tags/history/"/>
     
   </entry>
   
@@ -386,13 +386,13 @@
     </summary>
     
     
-      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
-    
       <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
-      <category term="book" scheme="http://liganlin.xyz/categories/Comment/book/"/>
-    
       <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
+    
+      <category term="book" scheme="http://liganlin.xyz/categories/Comment/book/"/>
     
       <category term="hobby" scheme="http://liganlin.xyz/categories/Life/hobby/"/>
     
@@ -446,9 +446,9 @@
     </summary>
     
     
-      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
-    
       <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
+    
+      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
     
       <category term="drama" scheme="http://liganlin.xyz/categories/Comment/drama/"/>
     
@@ -502,9 +502,9 @@
       <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
     
-      <category term="Jiangxi" scheme="http://liganlin.xyz/tags/Jiangxi/"/>
-    
       <category term="monthly" scheme="http://liganlin.xyz/tags/monthly/"/>
+    
+      <category term="Jiangxi" scheme="http://liganlin.xyz/tags/Jiangxi/"/>
     
   </entry>
   
