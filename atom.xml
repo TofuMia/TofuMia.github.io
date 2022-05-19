@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2022-05-19T15:28:19.764Z</updated>
+  <updated>2022-05-19T15:35:29.745Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://liganlin.xyz/2022/05/19/CaseStudyTheory/"/>
     <id>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</id>
     <published>2022-05-19T08:18:34.000Z</published>
-    <updated>2022-05-19T15:28:19.764Z</updated>
+    <updated>2022-05-19T15:35:29.745Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;2022年挖掘出的宝藏公众号《社会学理论大缸》，又让我重新捡起了对学术的热爱和信心。&lt;/p&gt;
+      &lt;p&gt;2022年挖掘出的宝藏公众号《社会学理论大缸》，又让我重新捡起了对学术的热爱和信心。✌&lt;/p&gt;
 &lt;p&gt;这次的课程拖沓很久才看完，主要涉及的主题是案例研究如何与理论对话，这也是让我一直困惑的问题。&lt;/p&gt;
 &lt;p&gt;恰好昨天师姐的案例汇报可以作为听完课程后的比较反思，再由此引出我的研究问题和理论对话思路。&lt;/p&gt;
     
@@ -67,7 +67,7 @@
     <link href="http://liganlin.xyz/2021/01/01/Yearly/"/>
     <id>http://liganlin.xyz/2021/01/01/Yearly/</id>
     <published>2021-01-01T14:09:01.000Z</published>
-    <updated>2022-05-19T08:00:34.927Z</updated>
+    <updated>2022-05-19T15:39:59.137Z</updated>
     
     <summary type="html">
     
@@ -76,7 +76,9 @@
     </summary>
     
     
-      <category term="记录" scheme="http://liganlin.xyz/categories/%E8%AE%B0%E5%BD%95/"/>
+      <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
+    
+      <category term="summary" scheme="http://liganlin.xyz/categories/Record/summary/"/>
     
     
       <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
@@ -119,7 +121,7 @@
     <link href="http://liganlin.xyz/2020/04/05/hiking/"/>
     <id>http://liganlin.xyz/2020/04/05/hiking/</id>
     <published>2020-04-05T13:45:26.000Z</published>
-    <updated>2021-12-10T14:59:52.578Z</updated>
+    <updated>2022-05-19T15:42:48.615Z</updated>
     
     <summary type="html">
     
@@ -128,7 +130,7 @@
     </summary>
     
     
-      <category term="记录" scheme="http://liganlin.xyz/categories/%E8%AE%B0%E5%BD%95/"/>
+      <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
     
       <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
@@ -271,7 +273,7 @@
     <link href="http://liganlin.xyz/2019/04/11/Inner%20Mongolia/"/>
     <id>http://liganlin.xyz/2019/04/11/Inner%20Mongolia/</id>
     <published>2019-04-10T16:06:28.000Z</published>
-    <updated>2021-12-14T09:59:01.130Z</updated>
+    <updated>2022-05-19T15:37:50.620Z</updated>
     
     <summary type="html">
     
@@ -280,7 +282,9 @@
     </summary>
     
     
-      <category term="游记" scheme="http://liganlin.xyz/categories/%E6%B8%B8%E8%AE%B0/"/>
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+      <category term="travel" scheme="http://liganlin.xyz/categories/Life/travel/"/>
     
     
       <category term="CETtrip" scheme="http://liganlin.xyz/tags/CETtrip/"/>
