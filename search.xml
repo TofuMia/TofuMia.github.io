@@ -164,6 +164,13 @@
 
 
 ]]></content>
+      <categories>
+        <category>Life</category>
+        <category>memory</category>
+      </categories>
+      <tags>
+        <tag>Yearly</tag>
+      </tags>
   </entry>
   <entry>
     <title>2020</title>
@@ -173,8 +180,8 @@
 
 ]]></content>
       <categories>
-        <category>Record</category>
-        <category>summary</category>
+        <category>Life</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>Yearly</tag>
@@ -203,7 +210,6 @@
       </categories>
       <tags>
         <tag>family business</tag>
-        <tag>Ningbo</tag>
       </tags>
   </entry>
   <entry>
@@ -274,7 +280,8 @@
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>充实又空洞的2019，探索与自我救赎。</p>
 <a id="more"></a>]]></content>
       <categories>
-        <category>Record</category>
+        <category>Life</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>Yearly</tag>
@@ -442,6 +449,10 @@
     <url>/2019/07/31/Henan/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><a id="more"></a>
 ]]></content>
+      <categories>
+        <category>Life</category>
+        <category>travel</category>
+      </categories>
   </entry>
   <entry>
     <title>6.3-6.9</title>
@@ -546,10 +557,8 @@
 <h4 id="购票流程方面"><a href="#购票流程方面" class="headerlink" title="购票流程方面"></a>购票流程方面</h4><p>购票耗费的时间太久，云冈石窟需要上楼大约 30min；悬空寺的散客票窗口排队时间更 长，与此同时团体票售票处无人排队……（团体票售票员说是不能买团体票）。所以个人 认为可以进一步优化流程，例如像白石山一样在车上收好证件后逐个发卡片，领队过去买 团体票，节约大家的等待时间。 </p>
 ]]></content>
       <categories>
-        <category>Record</category>
         <category>Life</category>
         <category>travel</category>
-        <category>memory</category>
       </categories>
       <tags>
         <tag>CETtrip</tag>
@@ -733,7 +742,8 @@
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Record</category>
+        <category>Life</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>monthly</tag>
@@ -996,8 +1006,8 @@
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>Essay</category>
-        <category>footsprint</category>
+        <category>Life</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>Beijing</tag>
@@ -1059,10 +1069,10 @@
 <a id="more"></a>
 
 
-        <div id="aplayer-JjBtyfLH" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-hzAdkauW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"Bloom of Youth","author":"清水準一","url":"http://music.163.com/song/media/outer/url?id=760058.mp3","pic":"http://p2.music.126.net/BxiuK1_8_RXArdjxOqqUeg==/3382097775018074.jpg?param=130y130"}]};
-				  options.element = document.getElementById("aplayer-JjBtyfLH");
+				  options.element = document.getElementById("aplayer-hzAdkauW");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
@@ -1078,8 +1088,8 @@
 <h2 id="6-其他"><a href="#6-其他" class="headerlink" title="6. 其他"></a>6. 其他</h2><p>板绘技能get，初学阶段。</p>
 ]]></content>
       <categories>
-        <category>Record</category>
-        <category>summary</category>
+        <category>Life</category>
+        <category>memory</category>
       </categories>
       <tags>
         <tag>Yearly</tag>

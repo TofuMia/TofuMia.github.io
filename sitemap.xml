@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liganlin.xyz/2019/01/11/3yearsBUCT/</loc>
+    <loc>http://liganlin.xyz/2021/01/01/Yearly/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2021/12/09/Yearly/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2020/08/24/Ningbo/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2019/07/31/Henan/</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -12,6 +39,42 @@
   
   <url>
     <loc>http://liganlin.xyz/2019/04/03/Datong/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2019/02/06/WinterVacationPlan/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2019/01/11/3yearsBUCT/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2020/01/30/Yearly/</loc>
+    
+    <lastmod>2022-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2019/01/01/Yearly/</loc>
     
     <lastmod>2022-05-20</lastmod>
     
@@ -146,45 +209,9 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2020/08/24/Ningbo/</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</loc>
     
     <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2019/01/01/Yearly/</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2021/12/09/Yearly/</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2021/01/01/Yearly/</loc>
-    
-    <lastmod>2022-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -218,15 +245,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2020/01/30/Yearly/</loc>
-    
-    <lastmod>2022-05-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2020/02/01/me/</loc>
     
     <lastmod>2022-05-19</lastmod>
@@ -237,15 +255,6 @@
   
   <url>
     <loc>http://liganlin.xyz/2019/01/14/Skiing/</loc>
-    
-    <lastmod>2021-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2019/02/06/WinterVacationPlan/</loc>
     
     <lastmod>2021-12-14</lastmod>
     
@@ -275,15 +284,6 @@
     <loc>http://liganlin.xyz/categories/index.html</loc>
     
     <lastmod>2020-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2019/07/31/Henan/</loc>
-    
-    <lastmod>2019-07-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -488,13 +488,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/tags/Ningbo/</loc>
-    <lastmod>2022-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/tags/management/</loc>
     <lastmod>2022-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -546,13 +539,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/categories/Record/summary/</loc>
-    <lastmod>2022-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/categories/Comment/book/</loc>
     <lastmod>2022-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -595,13 +581,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/categories/Essay/footsprint/</loc>
-    <lastmod>2022-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/categories/Record/memory/</loc>
     <lastmod>2022-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,6 +617,13 @@
   
   <url>
     <loc>http://liganlin.xyz/categories/Essay/course/</loc>
+    <lastmod>2022-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/categories/Life/memory/</loc>
     <lastmod>2022-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
