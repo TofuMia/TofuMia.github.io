@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2022-06-07T14:58:21.905Z</updated>
+  <updated>2022-06-07T15:25:24.166Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://liganlin.xyz/2022/06/07/Academic7/"/>
     <id>http://liganlin.xyz/2022/06/07/Academic7/</id>
     <published>2022-06-07T14:43:24.000Z</published>
-    <updated>2022-06-07T14:58:21.905Z</updated>
+    <updated>2022-06-07T15:25:24.166Z</updated>
     
     <summary type="html">
     
@@ -330,9 +330,9 @@
     </summary>
     
     
-      <category term="Essay" scheme="http://liganlin.xyz/categories/Essay/"/>
-    
       <category term="Research" scheme="http://liganlin.xyz/categories/Research/"/>
+    
+      <category term="Essay" scheme="http://liganlin.xyz/categories/Essay/"/>
     
       <category term="course" scheme="http://liganlin.xyz/categories/Essay/course/"/>
     
