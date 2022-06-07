@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liganlin.xyz/2022/06/07/MP/</loc>
+    <loc>http://liganlin.xyz/2022/06/07/Academic7/</loc>
+    
+    <lastmod>2022-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</loc>
+    
+    <lastmod>2022-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/02/GoldenWing/</loc>
     
     <lastmod>2022-06-07</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2022/06/02/GoldenWing/</loc>
+    <loc>http://liganlin.xyz/2022/06/07/MP/</loc>
     
     <lastmod>2022-06-07</lastmod>
     
@@ -263,15 +281,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</loc>
-    
-    <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2019/02/04/Nepal/</loc>
     
     <lastmod>2022-05-19</lastmod>
@@ -497,6 +506,20 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/museum/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/method/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/tags/family-research/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
