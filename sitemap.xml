@@ -2,45 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liganlin.xyz/2022/05/29/imagination/</loc>
-    
-    <lastmod>2022-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2022/06/07/Academic7/</loc>
-    
-    <lastmod>2022-06-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</loc>
-    
-    <lastmod>2022-06-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2022/06/02/GoldenWing/</loc>
     
-    <lastmod>2022-06-07</lastmod>
+    <lastmod>2022-09-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2022/06/07/Monthly/</loc>
+    <loc>http://liganlin.xyz/2022/06/30/WeberBureaucracy/</loc>
     
-    <lastmod>2022-06-07</lastmod>
+    <lastmod>2022-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/28/Carton/</loc>
+    
+    <lastmod>2022-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/28/memo/</loc>
+    
+    <lastmod>2022-06-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,52 @@
   <url>
     <loc>http://liganlin.xyz/2022/06/07/MP/</loc>
     
-    <lastmod>2022-06-07</lastmod>
+    <lastmod>2022-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/18/game/</loc>
+    
+    <lastmod>2022-06-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/14/SadCAT/</loc>
+    
+    <lastmod>2022-06-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/14/SoupOpera/</loc>
+    
+    <lastmod>2022-06-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/07/Monthly/</loc>
+    
+    <lastmod>2022-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/05/29/imagination/</loc>
+    
+    <lastmod>2022-06-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,6 +93,24 @@
   
   <url>
     <loc>http://liganlin.xyz/2022/05/02/Kaiti/</loc>
+    
+    <lastmod>2022-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/06/07/Academic7/</loc>
+    
+    <lastmod>2022-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://liganlin.xyz/2022/05/19/CaseStudyTheory/</loc>
     
     <lastmod>2022-06-07</lastmod>
     
@@ -346,7 +400,7 @@
 
   <url>
     <loc>http://liganlin.xyz/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -354,182 +408,182 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/Yearly/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Beijing/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Hangzhou/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/weekly/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/feminism/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/sport/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/CETtrip/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Github/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Hexo/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/fiction/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/volunteer/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Southeast-Asia/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Gapper/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/monthly/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/Jiangxi/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/history/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/museum/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/sociology/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/family-research/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/exhibition/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/geography/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/friend/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/method/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/family-business/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/management/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/tags/organization/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -538,126 +592,126 @@
   
   <url>
     <loc>http://liganlin.xyz/categories/Life/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Comment/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Life/memory/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Life/travel/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Note/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Comment/book/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Life/hobby/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Comment/film/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Comment/drama/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Note/tech/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Record/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Record/memory/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Research/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Research/case/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Note/lecture/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Field/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Essay/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://liganlin.xyz/categories/Essay/course/</loc>
-    <lastmod>2022-06-09</lastmod>
+    <lastmod>2022-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
