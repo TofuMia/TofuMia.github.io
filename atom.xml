@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2022-06-30T08:28:40.391Z</updated>
+  <updated>2022-10-05T00:38:54.727Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>WeberBureaucracy</title>
-    <link href="http://liganlin.xyz/2022/06/30/WeberBureaucracy/"/>
-    <id>http://liganlin.xyz/2022/06/30/WeberBureaucracy/</id>
-    <published>2022-06-30T08:28:40.000Z</published>
-    <updated>2022-06-30T08:28:40.391Z</updated>
+    <title>Taizi Mountain</title>
+    <link href="http://liganlin.xyz/2022/10/04/Taizi/"/>
+    <id>http://liganlin.xyz/2022/10/04/Taizi/</id>
+    <published>2022-10-04T05:30:38.000Z</published>
+    <updated>2022-10-05T00:38:54.727Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,72 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>TheGreatLearning</title>
+    <link href="http://liganlin.xyz/2022/09/15/TheGreatLearning/"/>
+    <id>http://liganlin.xyz/2022/09/15/TheGreatLearning/</id>
+    <published>2022-09-15T12:55:52.000Z</published>
+    <updated>2022-09-15T12:55:52.808Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022-2023 New Term</title>
+    <link href="http://liganlin.xyz/2022/09/12/NewTerm/"/>
+    <id>http://liganlin.xyz/2022/09/12/NewTerm/</id>
+    <published>2022-09-12T08:23:03.000Z</published>
+    <updated>2022-09-15T12:56:08.182Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新学期总会需要一点动力！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+    
+      <category term="montly" scheme="http://liganlin.xyz/tags/montly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022 summer holiday</title>
+    <link href="http://liganlin.xyz/2022/08/28/memo/"/>
+    <id>http://liganlin.xyz/2022/08/28/memo/</id>
+    <published>2022-08-28T07:20:19.000Z</published>
+    <updated>2022-09-17T06:51:31.194Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2022の暑假，过得很快。&lt;/p&gt;
+&lt;p&gt;生命的边缘&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+    
+      <category term="monthly" scheme="http://liganlin.xyz/tags/monthly/"/>
     
   </entry>
   
@@ -44,44 +110,21 @@
     <link href="http://liganlin.xyz/2022/06/28/Carton/"/>
     <id>http://liganlin.xyz/2022/06/28/Carton/</id>
     <published>2022-06-28T07:20:36.000Z</published>
-    <updated>2022-06-28T07:20:36.094Z</updated>
+    <updated>2022-09-15T13:48:21.784Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      Something was locked...🔒
     
     </summary>
     
     
+      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
     
-  </entry>
-  
-  <entry>
-    <title>memo</title>
-    <link href="http://liganlin.xyz/2022/06/28/memo/"/>
-    <id>http://liganlin.xyz/2022/06/28/memo/</id>
-    <published>2022-06-28T07:20:19.000Z</published>
-    <updated>2022-06-28T07:20:19.263Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
+      <category term="drama" scheme="http://liganlin.xyz/categories/Comment/drama/"/>
     
     
+      <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
     
   </entry>
   
@@ -111,7 +154,7 @@
     <link href="http://liganlin.xyz/2022/06/14/SoupOpera/"/>
     <id>http://liganlin.xyz/2022/06/14/SoupOpera/</id>
     <published>2022-06-14T03:58:39.000Z</published>
-    <updated>2022-09-10T03:46:03.504Z</updated>
+    <updated>2022-09-15T13:46:49.409Z</updated>
     
     <summary type="html">
     
@@ -183,7 +226,7 @@
     <link href="http://liganlin.xyz/2022/06/07/MP/"/>
     <id>http://liganlin.xyz/2022/06/07/MP/</id>
     <published>2022-06-07T12:54:38.000Z</published>
-    <updated>2022-06-22T07:40:09.238Z</updated>
+    <updated>2022-09-15T13:45:27.718Z</updated>
     
     <summary type="html">
     
@@ -227,7 +270,7 @@
     <link href="http://liganlin.xyz/2022/06/02/GoldenWing/"/>
     <id>http://liganlin.xyz/2022/06/02/GoldenWing/</id>
     <published>2022-06-02T07:55:42.000Z</published>
-    <updated>2022-09-10T03:33:42.376Z</updated>
+    <updated>2022-09-15T13:41:38.709Z</updated>
     
     <summary type="html">
     
@@ -254,7 +297,7 @@
     <link href="http://liganlin.xyz/2022/05/29/imagination/"/>
     <id>http://liganlin.xyz/2022/05/29/imagination/</id>
     <published>2022-05-29T09:12:46.000Z</published>
-    <updated>2022-06-15T07:41:26.844Z</updated>
+    <updated>2022-09-15T13:43:05.797Z</updated>
     
     <summary type="html">
     
@@ -305,7 +348,7 @@
     <link href="http://liganlin.xyz/2022/05/02/Kaiti/"/>
     <id>http://liganlin.xyz/2022/05/02/Kaiti/</id>
     <published>2022-05-02T08:13:04.000Z</published>
-    <updated>2022-06-15T07:41:08.875Z</updated>
+    <updated>2022-09-15T13:25:53.209Z</updated>
     
     <summary type="html">
     
@@ -326,17 +369,12 @@
     <link href="http://liganlin.xyz/2021/12/09/Yearly/"/>
     <id>http://liganlin.xyz/2021/12/09/Yearly/</id>
     <published>2021-12-09T13:53:03.000Z</published>
-    <updated>2022-05-20T09:30:50.733Z</updated>
+    <updated>2022-09-15T13:25:00.268Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;给自己揽了太多事情，被疲惫透支。&lt;/p&gt;
+&lt;p&gt;所幸半年后幡然醒悟，开始专注写作，记录生活。&lt;/p&gt;
     
     </summary>
     
@@ -348,6 +386,8 @@
     
       <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
     
+      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
+    
   </entry>
   
   <entry>
@@ -355,7 +395,7 @@
     <link href="http://liganlin.xyz/2021/01/01/Yearly/"/>
     <id>http://liganlin.xyz/2021/01/01/Yearly/</id>
     <published>2021-01-01T14:09:01.000Z</published>
-    <updated>2022-05-20T09:31:18.730Z</updated>
+    <updated>2022-09-15T13:22:12.937Z</updated>
     
     <summary type="html">
     
@@ -440,68 +480,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>2019</title>
-    <link href="http://liganlin.xyz/2020/01/30/Yearly/"/>
-    <id>http://liganlin.xyz/2020/01/30/Yearly/</id>
-    <published>2020-01-30T14:09:01.000Z</published>
-    <updated>2022-05-20T09:27:49.783Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;充实又空洞的2019，探索与自我救赎。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
-    
-      <category term="memory" scheme="http://liganlin.xyz/categories/Life/memory/"/>
-    
-    
-      <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
-    
-      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Reflection Paper-Organizational Management Study</title>
-    <link href="http://liganlin.xyz/2020/01/10/OMS/"/>
-    <id>http://liganlin.xyz/2020/01/10/OMS/</id>
-    <published>2020-01-10T14:11:11.000Z</published>
-    <updated>2021-12-14T09:32:12.550Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在本学期《组织与管理研究》课程学习过程中，我受益良多。我的收获主要来自以下四个部分。&lt;/p&gt;
-&lt;p&gt;第一是关于课程本身的思考。这主要在于思维认知和方法应用两个方面，包括对组织管理研究本身的理解、对研究视角和推理逻辑的认识、对研究单元差异的了解等等。&lt;/p&gt;
-&lt;p&gt;第二是关于课程中七个理论的逻辑框架和要点的理解。我用横、纵两条逻辑线将七个理论串联了起来：&lt;/p&gt;
-&lt;p&gt;其一，从历史和时代发展的角度，对组织理论的发展做纵向的分析；&lt;/p&gt;
-&lt;p&gt;其二，从理论本身和学科之间联系的角度，对不同理论做横向的分类和比较。&lt;/p&gt;
-&lt;p&gt;此外，从研究视角、研究层面、分析单位三个角度对理论要点也进行逐一总结。&lt;/p&gt;
-&lt;p&gt;第三是理论与现实的联系。这门课程潜移默化地让我主动思考现实。在学习过程中，我尝试以理论的眼光发现生活中的问题，在这里我举了一个近期时事案例作为分析的素材。&lt;/p&gt;
-&lt;p&gt;第四是对自身研究的启发。这部分我将重点回顾比较感兴趣的理论：意义构建理论和制度理论，并结合个人感兴趣的研究方向展开论述。&lt;/p&gt;
-&lt;p&gt;在最后，我重点反思了自己在本学期学习中存在不足和需要改进的地方，简单分享了一些有趣的经历与微不足道的心得感悟，并对课程提出了建议。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Research" scheme="http://liganlin.xyz/categories/Research/"/>
-    
-      <category term="Essay" scheme="http://liganlin.xyz/categories/Essay/"/>
-    
-      <category term="course" scheme="http://liganlin.xyz/categories/Essay/course/"/>
-    
-    
-      <category term="sociology" scheme="http://liganlin.xyz/tags/sociology/"/>
-    
-      <category term="management" scheme="http://liganlin.xyz/tags/management/"/>
-    
-      <category term="organization" scheme="http://liganlin.xyz/tags/organization/"/>
     
   </entry>
   
