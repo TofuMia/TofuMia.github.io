@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2023-01-02T17:33:26.443Z</updated>
+  <updated>2023-01-02T18:05:27.466Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://liganlin.xyz/2023/01/01/Yearly/"/>
     <id>http://liganlin.xyz/2023/01/01/Yearly/</id>
     <published>2023-01-01T13:46:05.000Z</published>
-    <updated>2023-01-02T17:33:26.443Z</updated>
+    <updated>2023-01-02T18:05:27.466Z</updated>
     
     <summary type="html">
     
@@ -96,11 +96,66 @@
   </entry>
   
   <entry>
+    <title>也无风雨也无晴</title>
+    <link href="http://liganlin.xyz/2022/11/13/Dongpo/"/>
+    <id>http://liganlin.xyz/2022/11/13/Dongpo/</id>
+    <published>2022-11-13T15:51:38.000Z</published>
+    <updated>2023-01-02T18:19:04.569Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;没有什么是睡一觉解决不了的，&lt;/p&gt;
+&lt;p&gt;如果有，那就睡两觉。&lt;/p&gt;
+&lt;p&gt;噢，再吃一顿好吃的（笑&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+      <category term="record" scheme="http://liganlin.xyz/categories/Life/record/"/>
+    
+    
+      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
+    
+      <category term="wander" scheme="http://liganlin.xyz/tags/wander/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“像诗人一样去感受” 甘霖 子天舒</title>
+    <link href="http://liganlin.xyz/2022/10/30/poem/"/>
+    <id>http://liganlin.xyz/2022/10/30/poem/</id>
+    <published>2022-10-30T15:51:38.000Z</published>
+    <updated>2023-01-02T18:16:18.973Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“平常人一样生活，&lt;/p&gt;
+&lt;p&gt;诗人一样感受，&lt;/p&gt;
+&lt;p&gt;哲人一样思考，&lt;/p&gt;
+&lt;p&gt;记者一样写作”&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+      <category term="record" scheme="http://liganlin.xyz/categories/Life/record/"/>
+    
+    
+      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
+    
+      <category term="wander" scheme="http://liganlin.xyz/tags/wander/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Taizi Mountain</title>
     <link href="http://liganlin.xyz/2022/10/04/Taizi/"/>
     <id>http://liganlin.xyz/2022/10/04/Taizi/</id>
     <published>2022-10-04T05:30:38.000Z</published>
-    <updated>2022-10-05T00:38:54.727Z</updated>
+    <updated>2023-01-02T18:11:13.384Z</updated>
     
     <summary type="html">
     
@@ -115,6 +170,10 @@
     </summary>
     
     
+      <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
+    
+    
+      <category term="hiking" scheme="http://liganlin.xyz/tags/hiking/"/>
     
   </entry>
   
@@ -123,7 +182,7 @@
     <link href="http://liganlin.xyz/2022/06/14/SadCAT/"/>
     <id>http://liganlin.xyz/2022/06/14/SadCAT/</id>
     <published>2022-06-14T03:56:25.000Z</published>
-    <updated>2022-06-18T10:26:07.149Z</updated>
+    <updated>2023-01-02T18:05:32.362Z</updated>
     
     <summary type="html">
     
@@ -265,7 +324,7 @@
     <link href="http://liganlin.xyz/2022/05/02/Kaiti/"/>
     <id>http://liganlin.xyz/2022/05/02/Kaiti/</id>
     <published>2022-05-02T08:13:04.000Z</published>
-    <updated>2023-01-02T17:11:51.603Z</updated>
+    <updated>2023-01-02T18:06:06.234Z</updated>
     
     <summary type="html">
     
@@ -274,7 +333,7 @@
     </summary>
     
     
-      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+      <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
     
       <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
@@ -312,7 +371,7 @@
     <link href="http://liganlin.xyz/2022/01/16/Niche/"/>
     <id>http://liganlin.xyz/2022/01/16/Niche/</id>
     <published>2022-01-16T15:51:38.000Z</published>
-    <updated>2023-01-02T17:20:31.568Z</updated>
+    <updated>2023-01-02T18:05:02.242Z</updated>
     
     <summary type="html">
     
@@ -365,7 +424,7 @@
     <link href="http://liganlin.xyz/2021/12/30/Nov-Dec-2021/"/>
     <id>http://liganlin.xyz/2021/12/30/Nov-Dec-2021/</id>
     <published>2021-12-29T16:31:26.000Z</published>
-    <updated>2023-01-02T17:30:33.176Z</updated>
+    <updated>2023-01-02T18:09:48.129Z</updated>
     
     <summary type="html">
     
@@ -380,6 +439,30 @@
     
     
       <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>心灵奇旅影评</title>
+    <link href="http://liganlin.xyz/2021/11/30/soul/"/>
+    <id>http://liganlin.xyz/2021/11/30/soul/</id>
+    <published>2021-11-29T18:19:14.000Z</published>
+    <updated>2023-01-02T18:44:12.847Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzA4MDkwNTA5MA==&amp;mid=2652758418&amp;idx=1&amp;sn=fc863ab854c09e79e6f0d95bcffe986f&amp;chksm=8474577fb303de69bcd645a22be4a16021d8fdbfc41bffca4b72315f0b3b9af1d31f1674102d&amp;mpshare=1&amp;scene=1&amp;srcid=0514GGPoJrqQHoPCD7IImCDR&amp;sharer_sharetime=1672276630767&amp;sharer_shareid=1337c3aa8e20a784f02e087097866ef0&amp;key=98e4986789165e760f64cdb89d937bc748d663c6e864530ba12044dd99dbae54d72ef3d3053c5f84545ac51d9d590abf678740269e2959935015c29b11cf8e56f7f2f7c5b2e1b0b85744d2d0ffa5d26e784834d638f96c597b850ef6aaf8acc20bce64dc508b4526aa3674680473672052a0ece11b091506483fa037973e01a1&amp;ascene=1&amp;uin=MzE0NjA3NTcwNA%3D%3D&amp;devicetype=Windows+10+x64&amp;version=6308011a&amp;lang=zh_CN&amp;exportkey=n_ChQIAhIQ7lM%2FBQzRLvyyO9L3BPEbfhL1AQIE97dBBAEAAAAAAJstNnzVjisAAAAOpnltbLcz9gKNyK89dVj0kE2kxcE23Uti93H4xloqlnBkaErzjQvFbkbT7JM3VzZaqFHPUXfMOYQbxrVwee2XHIhi8sqoD%2FUbsOqeyvVkNJvOKK2HTjKvsg%2FZyT8%2FUldS2gjjtf9XzzcDHK9rrk37QJadGUWt0Lo4BhOYXZYpb6XmN7PqDzmKB2aTboF1Z9z2Q5UM2QgsEnMeXJaAHdmiulUN4HjL%2BHbVTt%2FdgTuntkuiDl1Q5P0OgqtPg0zihmnYbUGOh1Lz8kon53DvNTBwsF6NOB4YJj%2FyYwFo1bJB&amp;acctmode=0&amp;pass_ticket=iIhyZD6ctXf8acmecs73njYxHQLVZ9GaTOaVF3nyboZ4h1cWPqNsufcwYkrcWMXdJ4LV5WIFyl%2FEpPtvZC%2B%2FIw%3D%3D&amp;wx_header=1&amp;fontgear=2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;心灵奇旅，灵魂引渡（上篇）&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA4MDkwNTA5MA==&amp;mid=2652758851&amp;idx=1&amp;sn=0f299704dab03b3c470bf32d1c64bc69&amp;chksm=847455aeb303dcb843f67eccee42ef2c7524cfe06f2affea60571d0e97460f558871835ee215&amp;mpshare=1&amp;scene=24&amp;srcid=07092FZsKqbBW2Bw6Fl2X3H6&amp;sharer_sharetime=1665238831089&amp;sharer_shareid=1337c3aa8e20a784f02e087097866ef0#rd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点燃火花，感受生活（下篇）&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Comment" scheme="http://liganlin.xyz/categories/Comment/"/>
+    
+      <category term="film" scheme="http://liganlin.xyz/categories/Comment/film/"/>
+    
+    
+      <category term="psychology" scheme="http://liganlin.xyz/tags/psychology/"/>
     
   </entry>
   
@@ -431,76 +514,6 @@
     
     
       <category term="family business" scheme="http://liganlin.xyz/tags/family-business/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>4.1-4.5</title>
-    <link href="http://liganlin.xyz/2020/04/05/hiking/"/>
-    <id>http://liganlin.xyz/2020/04/05/hiking/</id>
-    <published>2020-04-05T13:45:26.000Z</published>
-    <updated>2022-05-20T08:28:17.352Z</updated>
-    
-    <summary type="html">
-    
-      Something was locked...🔒
-    
-    </summary>
-    
-    
-    
-      <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>About Me</title>
-    <link href="http://liganlin.xyz/2020/02/01/me/"/>
-    <id>http://liganlin.xyz/2020/02/01/me/</id>
-    <published>2020-02-01T13:06:08.000Z</published>
-    <updated>2023-01-02T16:29:54.791Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;I am Ganlin LI;&lt;/p&gt;
-&lt;p&gt;Management Ph.D Student;&lt;/p&gt;
-&lt;p&gt;Adventurer of world, life and self.&lt;/p&gt;
-&lt;p&gt;Enthusiast of Reading, Music, Cospa, Hiking, DIY, etc.&lt;/p&gt;
-&lt;p&gt;Location: Zhejiang University, Hangzhou, CHINA&lt;/p&gt;
-&lt;p&gt;Email: &lt;a href=&quot;mailto:ganlinli@zju.edu.cn&quot;&gt;ganlinli@zju.edu.cn&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2019</title>
-    <link href="http://liganlin.xyz/2020/01/30/Yearly/"/>
-    <id>http://liganlin.xyz/2020/01/30/Yearly/</id>
-    <published>2020-01-30T14:09:01.000Z</published>
-    <updated>2022-10-14T13:50:32.045Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“以终为始，博采众长”&lt;/p&gt;
-&lt;p&gt;充实又空洞的2019，&lt;/p&gt;
-&lt;p&gt;探索与自我救赎。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
-    
-      <category term="memory" scheme="http://liganlin.xyz/categories/Life/memory/"/>
-    
-    
-      <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
-    
-      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
     
   </entry>
   
