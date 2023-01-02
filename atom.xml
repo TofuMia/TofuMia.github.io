@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://liganlin.xyz/"/>
-  <updated>2023-01-02T15:50:09.033Z</updated>
+  <updated>2023-01-02T17:33:26.443Z</updated>
   <id>http://liganlin.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://liganlin.xyz/2023/01/01/Yearly/"/>
     <id>http://liganlin.xyz/2023/01/01/Yearly/</id>
     <published>2023-01-01T13:46:05.000Z</published>
-    <updated>2023-01-02T15:50:09.033Z</updated>
+    <updated>2023-01-02T17:33:26.443Z</updated>
     
     <summary type="html">
     
@@ -309,7 +309,7 @@
     <link href="http://liganlin.xyz/2022/05/02/Kaiti/"/>
     <id>http://liganlin.xyz/2022/05/02/Kaiti/</id>
     <published>2022-05-02T08:13:04.000Z</published>
-    <updated>2023-01-02T15:49:29.200Z</updated>
+    <updated>2023-01-02T17:11:51.603Z</updated>
     
     <summary type="html">
     
@@ -321,6 +321,8 @@
       <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
     
     
+      <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
+    
       <category term="monthly" scheme="http://liganlin.xyz/tags/monthly/"/>
     
   </entry>
@@ -330,17 +332,12 @@
     <link href="http://liganlin.xyz/2022/02/04/Jan-Feb2022/"/>
     <id>http://liganlin.xyz/2022/02/04/Jan-Feb2022/</id>
     <published>2022-02-04T15:51:38.000Z</published>
-    <updated>2023-01-02T17:08:59.592Z</updated>
+    <updated>2023-01-02T17:33:42.663Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;关于2022年的开始。&lt;/p&gt;
+&lt;p&gt;很长但也五味陈杂吧。&lt;/p&gt;
     
     </summary>
     
@@ -359,17 +356,11 @@
     <link href="http://liganlin.xyz/2022/01/16/Niche/"/>
     <id>http://liganlin.xyz/2022/01/16/Niche/</id>
     <published>2022-01-16T15:51:38.000Z</published>
-    <updated>2023-01-02T16:01:10.621Z</updated>
+    <updated>2023-01-02T17:20:31.568Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;我们都需要找到自己的生态位。🍃&lt;/p&gt;
     
     </summary>
     
@@ -381,6 +372,8 @@
     
       <category term="hiking" scheme="http://liganlin.xyz/tags/hiking/"/>
     
+      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
+    
   </entry>
   
   <entry>
@@ -388,7 +381,7 @@
     <link href="http://liganlin.xyz/2021/12/31/Yearly/"/>
     <id>http://liganlin.xyz/2021/12/31/Yearly/</id>
     <published>2021-12-31T13:53:03.000Z</published>
-    <updated>2023-01-02T16:32:27.560Z</updated>
+    <updated>2023-01-02T17:36:56.768Z</updated>
     
     <summary type="html">
     
@@ -416,17 +409,11 @@
     <link href="http://liganlin.xyz/2021/12/30/Nov-Dec-2021/"/>
     <id>http://liganlin.xyz/2021/12/30/Nov-Dec-2021/</id>
     <published>2021-12-29T16:31:26.000Z</published>
-    <updated>2023-01-02T17:08:44.534Z</updated>
+    <updated>2023-01-02T17:30:33.176Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
+      &lt;p&gt;2021年的尾巴 emmm~&lt;/p&gt;
     
     </summary>
     
@@ -445,11 +432,12 @@
     <link href="http://liganlin.xyz/2021/01/01/Yearly%20/"/>
     <id>http://liganlin.xyz/2021/01/01/Yearly%20/</id>
     <published>2021-01-01T14:09:01.000Z</published>
-    <updated>2022-10-14T13:56:12.246Z</updated>
+    <updated>2023-01-02T17:21:38.429Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;坎坷曲折艰难度过了2020，愿平心静气。&lt;/p&gt;
+      &lt;p&gt;坎坷曲折艰难度过了2020，&lt;/p&gt;
+&lt;p&gt;愿平心静气。&lt;/p&gt;
     
     </summary>
     
