@@ -119,50 +119,6 @@
   </entry>
   
   <entry>
-    <title>TheGreatLearning</title>
-    <link href="http://liganlin.xyz/2022/09/15/TheGreatLearning/"/>
-    <id>http://liganlin.xyz/2022/09/15/TheGreatLearning/</id>
-    <published>2022-09-15T12:55:52.000Z</published>
-    <updated>2023-01-02T15:46:36.848Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2022-2023 New Term</title>
-    <link href="http://liganlin.xyz/2022/09/12/NewTerm/"/>
-    <id>http://liganlin.xyz/2022/09/12/NewTerm/</id>
-    <published>2022-09-12T08:23:03.000Z</published>
-    <updated>2023-01-02T15:46:27.109Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;新学期总会需要一点动力！&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
-    
-    
-      <category term="montly" scheme="http://liganlin.xyz/tags/montly/"/>
-    
-  </entry>
-  
-  <entry>
     <title>6.7-6.14</title>
     <link href="http://liganlin.xyz/2022/06/14/SadCAT/"/>
     <id>http://liganlin.xyz/2022/06/14/SadCAT/</id>
@@ -494,6 +450,57 @@
     
     
       <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://liganlin.xyz/2020/02/01/me/"/>
+    <id>http://liganlin.xyz/2020/02/01/me/</id>
+    <published>2020-02-01T13:06:08.000Z</published>
+    <updated>2023-01-02T16:29:54.791Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;I am Ganlin LI;&lt;/p&gt;
+&lt;p&gt;Management Ph.D Student;&lt;/p&gt;
+&lt;p&gt;Adventurer of world, life and self.&lt;/p&gt;
+&lt;p&gt;Enthusiast of Reading, Music, Cospa, Hiking, DIY, etc.&lt;/p&gt;
+&lt;p&gt;Location: Zhejiang University, Hangzhou, CHINA&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&quot;mailto:ganlinli@zju.edu.cn&quot;&gt;ganlinli@zju.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019</title>
+    <link href="http://liganlin.xyz/2020/01/30/Yearly/"/>
+    <id>http://liganlin.xyz/2020/01/30/Yearly/</id>
+    <published>2020-01-30T14:09:01.000Z</published>
+    <updated>2022-10-14T13:50:32.045Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“以终为始，博采众长”&lt;/p&gt;
+&lt;p&gt;充实又空洞的2019，&lt;/p&gt;
+&lt;p&gt;探索与自我救赎。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+    
+      <category term="memory" scheme="http://liganlin.xyz/categories/Life/memory/"/>
+    
+    
+      <category term="Yearly" scheme="http://liganlin.xyz/tags/Yearly/"/>
+    
+      <category term="Hangzhou" scheme="http://liganlin.xyz/tags/Hangzhou/"/>
     
   </entry>
   

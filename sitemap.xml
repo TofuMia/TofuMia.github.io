@@ -83,24 +83,6 @@
   </url>
   
   <url>
-    <loc>http://liganlin.xyz/2022/09/15/TheGreatLearning/</loc>
-    
-    <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/2022/09/12/NewTerm/</loc>
-    
-    <lastmod>2023-01-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://liganlin.xyz/2022/11/18/jiayi/</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -554,13 +536,6 @@
   
   <url>
     <loc>http://liganlin.xyz/tags/Hangzhou/</loc>
-    <lastmod>2023-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://liganlin.xyz/tags/montly/</loc>
     <lastmod>2023-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
