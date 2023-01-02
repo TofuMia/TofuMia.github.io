@@ -116,9 +116,9 @@
       <category term="record" scheme="http://liganlin.xyz/categories/Life/record/"/>
     
     
-      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
-    
       <category term="wander" scheme="http://liganlin.xyz/tags/wander/"/>
+    
+      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
     
   </entry>
   
@@ -144,9 +144,9 @@
       <category term="record" scheme="http://liganlin.xyz/categories/Life/record/"/>
     
     
-      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
-    
       <category term="wander" scheme="http://liganlin.xyz/tags/wander/"/>
+    
+      <category term="wechat" scheme="http://liganlin.xyz/tags/wechat/"/>
     
   </entry>
   
@@ -273,7 +273,7 @@
     <link href="http://liganlin.xyz/2022/05/29/imagination/"/>
     <id>http://liganlin.xyz/2022/05/29/imagination/</id>
     <published>2022-05-29T09:12:46.000Z</published>
-    <updated>2022-09-15T13:43:05.797Z</updated>
+    <updated>2023-01-02T18:46:23.191Z</updated>
     
     <summary type="html">
     
@@ -282,7 +282,7 @@
     </summary>
     
     
-      <category term="Life" scheme="http://liganlin.xyz/categories/Life/"/>
+      <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
     
       <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
@@ -324,21 +324,17 @@
     <link href="http://liganlin.xyz/2022/05/02/Kaiti/"/>
     <id>http://liganlin.xyz/2022/05/02/Kaiti/</id>
     <published>2022-05-02T08:13:04.000Z</published>
-    <updated>2023-01-02T18:06:06.234Z</updated>
+    <updated>2023-01-02T18:46:51.087Z</updated>
     
     <summary type="html">
     
-      Something was locked...🔒
+      &lt;p&gt;按下加速键的四月份。⏩&lt;/p&gt;
     
     </summary>
     
     
       <category term="Record" scheme="http://liganlin.xyz/categories/Record/"/>
     
-    
-      <category term="weekly" scheme="http://liganlin.xyz/tags/weekly/"/>
-    
-      <category term="monthly" scheme="http://liganlin.xyz/tags/monthly/"/>
     
   </entry>
   
